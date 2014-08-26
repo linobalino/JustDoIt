@@ -1,0 +1,11 @@
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\bin\Debug\P11_TE_Tool.exe.config
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\bin\Debug\P11_TE_Tool.exe
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\bin\Debug\P11_TE_Tool.pdb
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\bin\Debug\P11_TE_Tool.xml
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.Form1.resources
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.Resources.resources
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.vbproj.GenerateResource.Cache
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.exe
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.xml
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.pdb
+C:\VB\Projects\P11_TE_Tool\P11_TE_Tool\obj\Debug\P11_TE_Tool.vbprojResolveAssemblyReference.cache

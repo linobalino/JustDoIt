@@ -1,0 +1,10 @@
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\bin\Debug\P11_TP_Checksum.exe.config
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\bin\Debug\P11_TP_Checksum.exe
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\bin\Debug\P11_TP_Checksum.pdb
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\bin\Debug\P11_TP_Checksum.xml
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.P11_Checksum.resources
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.Resources.resources
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.vbproj.GenerateResource.Cache
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.exe
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.xml
+C:\VB\Projects\P11_TP_Checksum\P11_TP_Checksum\obj\Debug\P11_TP_Checksum.pdb
